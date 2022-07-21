@@ -3,7 +3,7 @@
 I'm currently working at Intel Corporations as a Continuous Integration Engineer, looking to improve myself and later on become a great Backend Java engineer
 
 
-- ⚡ Fun fact: My love for programming started with the creation of a BOT for a MMORPG game (Few week's later i was in a ban list ;()
+- ⚡ Fun fact: My love for programming started with the creation of a BOT for a MMORPG game (Few week's later i was in a ban list :laughing:)
 <!--
 **alanmvh/alanmvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
