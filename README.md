@@ -2,19 +2,15 @@
 
 I'm currently working at Intel Corporations as a Continuous Integration Engineer, looking to improve myself and later on become a great Backend Java engineer
 
+Also I'm currently learning python and java in a great page doing exercises:
+
+**Excercism:** You can find my profile here :smile:: **[Excercism Profile](https://exercism.org/profiles/Nydhoggr)**
+
+Programming languages in progress:
+- Python
+- Java
+  - Hibernate (Framework)
+  - Spring Boot (Framework)
 
 - ⚡ Fun fact: My love for programming started with the creation of a BOT for a MMORPG game (Few week's later i was in a ban list :laughing:)
-<!--
-**alanmvh/alanmvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
