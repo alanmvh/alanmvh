@@ -18,5 +18,5 @@ Programming languages in progress:
 
 ### Python
 
-`Python Advanced Programming` - [Repo](https://github.com/alanmvh/Python-Advanced-Programming)
+[Python Advanced Programming](https://github.com/alanmvh/Python-Advanced-Programming)
 
